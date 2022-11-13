@@ -16,3 +16,4 @@ model Task {
   completed Boolean
   createdAt DateTime @default(now())
 }
+
